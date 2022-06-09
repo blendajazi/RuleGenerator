@@ -29,4 +29,4 @@ plt.xlabel("data")
 plt.ylabel("target")
 plt.title("Decision Tree Regression")
 plt.legend()
-plt.show()91556043+blendajazi@users.noreply.github.com
+plt.show()
